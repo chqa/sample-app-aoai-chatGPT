@@ -1,7 +1,7 @@
 .venv
 frontend/node_modules
 .env
-static
+
 .azure/
 __pycache__/
 src/yarn.lock
