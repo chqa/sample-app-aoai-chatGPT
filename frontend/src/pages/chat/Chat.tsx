@@ -38,7 +38,7 @@ const Chat = () => {
             setShowAuthMessage(true);
         }
         else {
-            setShowAuthMessage(false);
+            setShowAuthMessage(true);
         }
     }
 
